@@ -1,0 +1,15 @@
+.box {background-image: url(../assets/sfondo.png); }
+.divheader {background-color: blue; text-align: center; border: solid; color:blue;width: 500px; margin-left: auto; margin-right: auto;}
+.pheader { font-size: large; font-family: Arial, Helvetica, sans-serif; color: black;}
+.ulmenu {font-size: medium; font-family: Arial, Helvetica, sans-serif; color: white;}
+.divmain {background-color: white; text-align: justify; border: solid; color:rgb(0, 0, 0);width: 500px; margin-left: auto; margin-right: auto}
+.particomuni {font-family: "Poppins", sans-serif font-weight: bold; color: blueviolet;}
+.br1 {height: 10px;}
+.a1 {color: blueviolet;}
+.span1 {background-color: rgb(165, 150, 150);}
+p {font-family: "Poppins", sans-serif; font-size: medium;}
+ul {font-family: "Poppins", sans-serif}
+table {font-family: "Poppins", sans-serif}
+h2 {font-family: "Poppins", sans-serif}
+li {font-family: "Poppins", sans-serif}
+.form {background-color: antiquewhite;}
